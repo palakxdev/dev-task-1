@@ -85,3 +85,51 @@ h3 {
 }
 
 /*end second section*/
+
+.sec3-img {
+    width: 100%;
+    padding: 5%;
+    margin-top: 25px;
+}
+
+.second-titles {
+    line-height: 35px;
+    color: #6346E0;
+}
+
+.section3-div {
+    margin: auto;
+    padding: 5%;
+}
+
+/*end third section*/
+
+.sec4-img1 {
+    width: 100%;
+
+    margin-top: 25px;
+}
+
+.sec4-img {
+    padding: 5%;
+}
+
+.sec4-p {
+    text-align: justify;
+}
+
+/*end 4th section*/
+
+footer {
+    background-color: rgb(46, 46, 46);
+}
+
+.fot-title {
+    color: #FC875D;
+    text-align: center;
+}
+
+.foot-p {
+    text-align: center;
+    color: #6346E0;
+}
