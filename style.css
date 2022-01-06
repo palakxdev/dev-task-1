@@ -4,14 +4,20 @@ body {
 }
 
 h1 {
+    margin-left: 8px;
     font-size: 45px;
+}
+
+.first-heading {
+    border-left: 5px solid #6346E0;
+    line-height: 35px;
 }
 
 .title-span {
     color: #6346E0;
 }
 
-.first-section {
+.flexible {
     display: flex;
 }
 
@@ -33,3 +39,49 @@ h1 {
     padding: 10px 40px;
     border-radius: 30px;
 }
+
+/*end first section*/
+
+.experience {
+    text-align: center;
+    color: #6346E0;
+}
+
+.experiences {
+    padding: 3%;
+}
+
+.exp-img {
+    width: 30%;
+}
+
+h3 {
+    color: #FC875D;
+}
+
+.experiences1 {
+    background-color: #C8C7FF;
+    margin: 2%;
+    padding: 2%;
+    border-radius: 30px;
+}
+
+.experiences2 {
+    background-color: #FDEAD3;
+    margin: 2%;
+    padding: 2%;
+    border-radius: 30px;
+}
+
+.experiences3 {
+    background-color: #E9E9FF;
+    margin: 2%;
+    padding: 2%;
+    border-radius: 30px;
+}
+
+.exp-text {
+    text-align: justify;
+}
+
+/*end second section*/
